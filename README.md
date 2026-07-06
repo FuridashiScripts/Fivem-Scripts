@@ -20,7 +20,7 @@ Search trash containers across Los Santos and discover random loot! This lightwe
 > Add your screenshots or GIFs here.
 
 ```
-preview.png
+none
 ```
 
 ---
