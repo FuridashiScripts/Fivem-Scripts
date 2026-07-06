@@ -115,6 +115,9 @@ https://github.com/Furidashi
 Discord:
 https://discord.gg/nFXbSUvZNg
 
+YouTube:
+https://www.youtube.com/@FuridashiScripts
+
 ---
 
 ## ⭐ If you enjoy this resource...
